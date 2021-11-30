@@ -1,0 +1,16 @@
+.title {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+a {
+  text-align: center;
+  color: aquamarine;
+  font-size: 16px;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
